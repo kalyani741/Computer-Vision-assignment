@@ -1,0 +1,7 @@
+Q03: Image Dimensions Report
+==============================
+Image File: input/sample.jpg
+Full Shape: (600, 512, 3)
+Height (Rows): 600 pixels
+Width (Columns): 512 pixels
+Number of Channels: 3

@@ -1,0 +1,12 @@
+Q13: BGR Pixel Values Report
+==============================
+Image File: input/sample.jpg
+Image Resolution: 512 x 600
+Inspected Pixel Location: (x=256, y=300)
+NumPy Matrix Index: img[300, 256]
+Complete BGR Pixel Vector: [103, 136, 216]
+-----------------------------------------
+Blue  Channel Intensity (B): 103 / 255
+Green Channel Intensity (G): 136 / 255
+Red   Channel Intensity (R): 216 / 255
+Dominant Channel: Red

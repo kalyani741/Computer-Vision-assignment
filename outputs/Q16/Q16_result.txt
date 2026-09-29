@@ -1,0 +1,15 @@
+Q16: Min and Max Intensity Report
+===================================
+Image File: input/sample.jpg
+Grayscale Resolution: 512 x 600 (Width x Height)
+-----------------------------------------
+OpenCV Calculation:
+  Minimum Intensity Value: 0 at coordinate (x=231, y=29)
+  Maximum Intensity Value: 255 at coordinate (x=207, y=15)
+-----------------------------------------
+NumPy Calculation:
+  np.min: 0
+  np.max: 255
+-----------------------------------------
+Dynamic Range Spread (Max - Min): 255
+Theoretical Dynamic Range: 0 to 255

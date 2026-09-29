@@ -1,0 +1,13 @@
+Q23: Downsampling Resolution Report
+========================================
+Image File: input/sample.jpg
+-----------------------------------------
+Original Resolution:    512 x 600 (Width x Height)
+Original Pixel Count:   307,200 pixels
+-----------------------------------------
+Downsampling Factor:    2 (Horizontal & Vertical)
+New Resolution:         256 x 300 (Width x Height)
+New Pixel Count:        76,800 pixels
+Pixel Reduction Factor: 4.00x (Nominally 4x reduction)
+-----------------------------------------
+Sampling Technique:     Spatial Subsampling (Decimation via img[::2, ::2])

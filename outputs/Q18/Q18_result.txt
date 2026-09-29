@@ -1,0 +1,17 @@
+Q18: Mean and Standard Deviation Report
+========================================
+Image File: input/sample.jpg
+Grayscale Resolution: 512 x 600
+-----------------------------------------
+OpenCV cv2.meanStdDev():
+  Mean (Average Brightness):        77.0256
+  Standard Deviation (Contrast):     68.9708
+-----------------------------------------
+NumPy np.mean() / np.std():
+  Mean:                              77.0256
+  Standard Deviation:                68.9708
+  Variance (sigma^2):                4756.9705
+-----------------------------------------
+Statistical Analysis:
+  The mean of 77.03 confirms the general illumination level,
+  while the standard deviation of 68.97 indicates the tonal contrast.

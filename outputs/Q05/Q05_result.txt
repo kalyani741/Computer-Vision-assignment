@@ -1,0 +1,7 @@
+Q05: Image Data Type Report
+==============================
+Image File: input/sample.jpg
+NumPy Data Type (dtype): uint8
+Bytes per Element: 1 byte(s)
+Total Memory Consumption: 921,600 bytes (0.88 MB)
+Interpretation: uint8 represents unsigned 8-bit integers with dynamic range [0, 255].

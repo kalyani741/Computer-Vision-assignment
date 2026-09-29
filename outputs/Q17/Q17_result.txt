@@ -1,0 +1,12 @@
+Q17: Mean Intensity Report
+==============================
+Image File: input/sample.jpg
+Total Pixels (N): 307,200
+Sum of Pixel Intensities: 23,662,263
+-----------------------------------------
+OpenCV cv2.mean():  77.0256
+NumPy np.mean():    77.0256
+Manual (Sum / N):   77.0256
+-----------------------------------------
+Interpretation: On a 0-255 scale, an average intensity of 77.03
+indicates an overall dark exposure.

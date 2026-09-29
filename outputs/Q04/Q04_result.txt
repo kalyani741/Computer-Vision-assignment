@@ -1,0 +1,7 @@
+Q04: Total Pixels Report
+==============================
+Image File: input/sample.jpg
+Resolution: 512 x 600
+Channels: 3
+Total Spatial Pixels (Width x Height): 307,200 pixels
+Total Array Elements / Byte Values (Width x Height x Channels): 921,600 values

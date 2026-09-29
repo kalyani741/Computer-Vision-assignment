@@ -1,0 +1,10 @@
+Q11: Pixel Access Report
+==============================
+Image File: input/sample.jpg
+Image Dimensions: Width=512, Height=600
+Selected Coordinate: (x=256, y=300)
+Array Index Used: img[y=300, x=256]
+Raw Pixel Vector (BGR): [103, 136, 216]
+Blue  (B) Channel Intensity: 103
+Green (G) Channel Intensity: 136
+Red   (R) Channel Intensity: 216

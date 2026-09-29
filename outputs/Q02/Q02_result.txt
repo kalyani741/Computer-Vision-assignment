@@ -1,0 +1,9 @@
+Q02 Execution Results:
+
+Test 1 - Valid Path (input/sample.jpg):
+Status: SUCCESS
+Message: Success: Image loaded successfully with shape (600, 512, 3).
+
+Test 2 - Invalid Path (input/missing_image.jpg):
+Status: FAILED
+Message: File does not exist on disk: input/missing_image.jpg
